@@ -353,3 +353,6 @@ data/match_35943/maps/Haven/time_series.csv
 data/match_35943/maps/Split/map_info.yaml
 data/match_35943/maps/Split/player_stats.csv
 data/match_35943/maps/Split/time_series.csv
+data/all_data.csv
+model.pkl
+notebooks/ts-data.pkl
